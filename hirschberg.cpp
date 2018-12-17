@@ -1,5 +1,5 @@
 //
-// Created by Rahul Govind on 06/12/18.
+// Created by Pooja Malik and Rahul Govind on 06/12/18.
 //
 
 #include "hirscherg.h"
